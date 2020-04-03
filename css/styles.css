@@ -23,3 +23,30 @@ h5
   background-image: url("s_image.jpg") no-repeat;
   color: white;
 }
+.design-text
+{
+  display: none;
+  cursor: pointer;
+}
+.development-text
+{
+  display: none;
+  cursor: pointer;
+}
+.product-text
+{
+  display: none;
+  cursor: pointer;
+}
+.development-icon
+{
+  cursor: pointer;
+}
+.design-icon
+{
+  cursor: pointer;
+}
+.product-icon
+{
+  cursor: pointer;
+}
