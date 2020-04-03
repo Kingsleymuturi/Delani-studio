@@ -13,3 +13,13 @@ h5
 {
   text-align: center;
 }
+.services-text
+{
+  font-size: 15px;
+  text-align: center;
+}
+.services
+{
+  background-image: url("s_image.jpg") no-repeat;
+  color: white;
+}
