@@ -11,4 +11,7 @@ $(document).ready(function() {
     $(".design-text").slideToggle();
     $(".design-icon").slideToggle()
   });
+    $(".snake").snakeify({
+      speed: 200
+    })
 })
