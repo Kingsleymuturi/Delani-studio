@@ -38,6 +38,7 @@ function validateForm(){
   document.getElementById("contact").style.fontSize = "50px"
   document.getElementById("contact").style.textAlign = "center"
   document.getElementById("contact").style.color ="White"
+  document.getElementById("contact").style.padding = "20%"
   alert("Thank you for reaching to us " + username +  ". Your message has been received by us and is being reviewed")
 };
 };
