@@ -1,6 +1,8 @@
+@media screen and (min-width: 380px) and (max-width: 767px) {}
 .welcome
 {
-  background-image: url("h_img.jpg") no-repeat;
+  background-image: url("../images/h_img.jpg");
+  background-size: cover;
   text-align: center;
   color: white;
 }
@@ -20,7 +22,8 @@ h5
 }
 .services
 {
-  background-image: url("s_image.jpg") no-repeat;
+  background-image: url("../images/s_image.jpg");
+  background-size: cover;
   color: white;
 }
 .design-text
@@ -50,3 +53,13 @@ h5
 {
   cursor: pointer;
 }
+.row
+{
+  padding-right: 10%;
+  padding-left: 10%;
+}
+.col-md-3
+{
+  padding: 2%;
+}
+
