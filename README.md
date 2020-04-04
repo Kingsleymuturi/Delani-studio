@@ -15,9 +15,9 @@ This is a studio website that tells you what Delani studio is all about and give
 ## Access
 * click the live link to be directed directly to the webpage
 https://Kingsleymuturi.github.io/Delani-studio
-![delani website](images/Delani.png)
+![delani website](Delani/images/Delani.png)
 * The icons below will direct you to the actual sites
-![Icons](images/Icons.png)
+![Icons](Delani/images/Icons.png)
 ## Known Bugs
 The hover effect might hang.
 ### Development
