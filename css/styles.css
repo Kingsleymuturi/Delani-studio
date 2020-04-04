@@ -113,6 +113,12 @@ h5
   background-color: whitesmoke;
   margin-left: 45%;
 }
+#submit:hover
+{
+  background-color: beige;
+  transition: .1s;
+  color: blue;
+}
 .textarea{
   padding-left: 20%;
   padding-right: 20%;
