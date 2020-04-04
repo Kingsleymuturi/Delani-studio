@@ -93,4 +93,27 @@ h5
   padding-right: 5%;
   padding-bottom: 5%;
 }
-
+#contact
+{
+  background-image: url("../images/c_image.jpg");
+  background-size: cover;
+  color: white;
+}
+.textinsert
+{
+  background-color: transparent;
+}
+.form-control
+{
+  background: transparent;
+}
+#submit
+{
+  background-color: whitesmoke;
+  margin-left: 45%;
+}
+.textarea{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 1%;
+}
