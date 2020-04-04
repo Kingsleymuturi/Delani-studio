@@ -26,13 +26,13 @@ function validateForm(){
 
   if (username === ""){
   document.getElementById("Invalid").innerText = "Please enter your name!"
-  document.getElementById("Invalid").style.color ="blue"
+  document.getElementById("Invalid").style.color ="white"
 } else if(useremail === ""){
   document.getElementById("Invalid1").innerText = "Please enter your email!"
-  document.getElementById("Invalid1").style.color ="blue"
+  document.getElementById("Invalid1").style.color ="white"
 } else if(usermessage === ""){
   document.getElementById("Invalid2").innerText = "Please type your message!"
-  document.getElementById("Invalid2").style.color ="blue"
+  document.getElementById("Invalid2").style.color ="white"
 } else{
   document.getElementById("contact").innerHTML = "Thank you for your feedback!"
   document.getElementById("contact").style.fontSize = "50px"
