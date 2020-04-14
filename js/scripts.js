@@ -70,6 +70,6 @@ function sendMsg() {
 	var email = $("#EMAIL").val();
 	var message = $("#MESSAGE").val();
 	if (name !== "" && email !== "" && message !== ""){
-		alert("Thank you " + name + " for your message! We will review it and give you feedback. Check your email for our feedback soon.")
+		alert("Hey " + name + "! Thank you for your message! We will review it and give you feedback. Check your email for our feedback soon.")
   }
 };
