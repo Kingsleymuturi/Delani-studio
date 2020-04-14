@@ -54,18 +54,21 @@ h5
   display: none;
   cursor: pointer;
   font-family: 'Special Elite', cursive;
+  text-align: center;
 }
 .development-text
 {
   display: none;
   cursor: pointer;
   font-family: 'Special Elite', cursive;
+  text-align: center;
 }
 .product-text
 {
   display: none;
   cursor: pointer;
   font-family: 'Special Elite', cursive;
+  text-align: center;
 }
 h7
 {
@@ -79,14 +82,17 @@ h8
 .development-icon
 {
   cursor: pointer;
+  text-align: center;
 }
 .design-icon
 {
   cursor: pointer;
+  text-align: center;
 }
 .product-icon
 {
   cursor: pointer;
+  text-align: center;
 }
 .row
 {
